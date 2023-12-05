@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi, I'm Adam</h1>
 
 - I’m currently working on **a Computer Vision project to track animals paths for clinical research**
 
