@@ -4,8 +4,6 @@
 
 - I’m currently learning **Reverse Engineering**
 
-- Ask me about **Cybersecurity related stuff**
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/gond.png" alt="Your Image Badge" />
 
 
