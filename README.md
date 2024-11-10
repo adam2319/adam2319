@@ -6,7 +6,7 @@
 
 - Ask me about **Cybersecurity related stuff**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/k4m1.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1220746" style='border:none;'></iframe>
 
 
 <h3 align="left">Languages and Tools:</h3>
