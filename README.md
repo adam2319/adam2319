@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Adam</h1>
 
-- I’m currently working on **how to use AI in Cyber Security**
-
-- I’m currently learning **Reverse Engineering**
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/gond.png" alt="Your Image Badge" />
 
